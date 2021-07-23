@@ -35,6 +35,11 @@ ul {
     font-size: 1.5rem;
 }
 
+header {
+    height: 100vh;
+
+}
+
 .btn-center {
     text-align: center;
 }
